@@ -8,8 +8,8 @@ Sway sur [HTML CSS - table de cours](https://sway.office.com/q0qQMTGdETWzhFwY)
 ### Outils et références
 [CSS_liens_utiles.html](www/CSS_liens_utiles.html) 
 
-## Évaluations
-1- forms office quel site : 
+## Évaluations (forms office)
+1- Quel site ? : 
 form : https://tinyurl.com/yyd83wa6
 résultats : https://tinyurl.com/y44swq92
 
