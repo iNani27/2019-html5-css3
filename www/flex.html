@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"> 
+		<title>FlexBox</title>
+		<meta name="description" content="Mettre en page avec FlexBox">
+		<meta name="keywords" content="HTML5, CSS3">
+		<meta name="author" content="INani">
+		<link rel="stylesheet" href="flex.css">
+	<style>
+	#container{		
+		border: 2px solid black;
+	}
+	.element{
+		width: 150px;
+		height: 150px;
+	}
+	.element:nth-child(1){
+		background-color: orange;
+	
+	}
+		.element:nth-child(2){
+		background-color: blue;
+		order: 1;
+	
+	}
+		.element:nth-child(3){
+		background-color: lightgreen;
+	}
+	</style>
+	</head>
+	<body>
+	<section id="container">
+		<section class="element"></section>
+		<section class="element"></section>
+		<section class="element"></section>
+	</section>
+	</body>
+</html>

@@ -1,0 +1,24 @@
+	#container{
+			/* les blocs se positionnent les uns à la suite des autres sur une même ligne tant qu'il reste de la place en largeur */
+		display: flex;
+			
+			/* column revenir au positionnement naturel tous en utilsant flex box  */		
+		flex-direction: column;
+			
+			/* inverser l'ordre des éléments : column or row reverse */
+		flex-direction: row-reverse;
+			
+			/* faire passer à la ligne un bloc flexible */ 
+		flex-wrap: wrap;
+			
+			/* Alignements hrz des blocs center, flex-start, flex-end, space-around, space-between  */
+		justify-content: space-around;
+		
+	/*plusieurs lignes*/
+			/* Alignement vertical des éléments center, flex-start, flex-end, stretch, baseline */
+		align-item: center; 
+		
+			/* Espacement entre les lignes */
+		align-content: strech;
+
+	}
