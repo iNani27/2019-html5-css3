@@ -1,5 +1,5 @@
 # 2019-html5-css3
-_PRIVATE_ 
+
 Supports de cours à destination des formateurs IT de Fobagra a.s.b.l. - session 2019
 
 ## Présentations et mémo (pour Isa):
